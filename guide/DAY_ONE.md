@@ -302,4 +302,4 @@ e.GET("/users", func(c *echo.Context) error {
 
 ## Next
 
-Structure your project and separate handlers, services, and routes.
+Structure our project and separate handlers, services, and routes.
